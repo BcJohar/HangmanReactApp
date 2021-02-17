@@ -1,0 +1,21 @@
+.scoreboard {
+    display: flex;
+    width: 50%;
+    justify-content: space-evenly;
+    font-size: .5em;
+}
+span.score.negative {
+    color: red;
+}
+span.score.positive {
+    color: green;
+}
+.reset {
+    width: 50%;
+    text-align: right;
+}
+.reset button {
+    font-family: Candara, Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: red;
+}
