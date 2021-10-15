@@ -1,5 +1,5 @@
 # HANGMAN (Pendu)
-This small project was created during a tutorial introduction to ReactJS.
+Ce petit project a été créé lors d'un tutoriel introduction au ReactJS.
 
 ## Description du jeu
 Le jeu du pendu consiste à faire deviner un mot ou une phrase, en essayant tour à tour des lettres possibles. Chaque essai révèle les lettres correspondantes dans le schéma du texte à deviner.
